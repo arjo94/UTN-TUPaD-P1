@@ -1,20 +1,16 @@
 # 💻 Programación 1  
-**Tecnicatura Universitaria en Programación**  
+Tecnicatura Universitaria en Programación  
 📍 *Universidad Tecnológica Nacional*  
 
-## ✨ Estudiante  
-- **Nombre:** Arjona, Martin *  
-- **Comisión:** M2025-24 *  
+TRABAJO PRÁCTICO INTEGRADOR - Programación I
 
-## 📂 Descripción del Repositorio  
-Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
+## ✨ Nombre de los integrantes del grupo:
+1.  Arjona Martin Joel
+2.  Arjona Paola Yanina del Valle
+- Comisión: M2025-24
 
-📌 **Estructura del repositorio:**  
-- Cada trabajo está organizado en carpetas individuales.  
-- Los archivos de código fuente (`.py`) incluyen comentarios y estructura adecuada.  
-- Se busca mantener un código limpio, ordenado y bien documentado.  
+✨ Tema elegido: BÚSQUEDA Y ORDENAMIENTO
 
-> ⚠️ **Nota:** Este README y los nombres de los archivos de los trabajos prácticos deben ser actualizados con tus datos personales.
-> 
-> ¡Recuerda mantener actualizado tu repositorio!
+✨ Objetivo del Proyecto: Desarrollar un sistema de gestión de inventario en Python que permita cargar datos desde un archivo CSV, ordenar los productos y realizar búsquedas de forma eficiente.
 
+✨ Link del video de presentación: TP Integrador Programación: https://www.youtube.com/watch?v=M4RXe8QpJRE
